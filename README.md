@@ -1,9 +1,13 @@
 # Ansible Role for Microsoft Teams
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-teams/master)](https://gitlab.com/alvistack/ansible-role-teams/-/pipelines)
-[![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-teams.svg)](https://github.com/alvistack/ansible-role-teams/releases)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-teams.svg)](https://github.com/alvistack/ansible-role-teams/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.teams-blue.svg)](https://galaxy.ansible.com/alvistack/teams)
+[![Gitlab pipeline
+status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-teams/master)](https://gitlab.com/alvistack/ansible-role-teams/-/pipelines)
+[![GitHub
+release](https://img.shields.io/github/release/alvistack/ansible-role-teams.svg)](https://github.com/alvistack/ansible-role-teams/releases)
+[![GitHub
+license](https://img.shields.io/github/license/alvistack/ansible-role-teams.svg)](https://github.com/alvistack/ansible-role-teams/blob/master/LICENSE)
+[![Ansible
+Role](https://img.shields.io/badge/galaxy-alvistack.teams-blue.svg)](https://galaxy.ansible.com/alvistack/teams)
 
 Ansible Role for Microsoft Teams Installation.
 
@@ -39,7 +43,8 @@ This role could simply deploy to `localhost` as below:
 ## License
 
   - Code released under [Apache License 2.0](LICENSE)
-  - Docs released under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+  - Docs released under [CC
+    BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
 ## Author Information
 
