@@ -26,6 +26,7 @@ _yum_repository:
     baseurl: "http://packages.microsoft.com/yumrepos/ms-teams"
     enabled: true
     priority: "2"
+    module_hotfixes: true
     gpgcheck: true
     gpgkey: "http://packages.microsoft.com/keys/microsoft.asc"
     state: "present"
