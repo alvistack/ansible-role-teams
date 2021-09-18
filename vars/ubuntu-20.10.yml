@@ -15,13 +15,14 @@
 # limitations under the License.
 
 _apt_key:
-  - url: "http://packages.microsoft.com/keys/microsoft.asc"
+  - keyring: "/etc/apt/trusted.gpg.d/microsoft.gpg"
+    url: "http://packages.microsoft.com/keys/microsoft.asc"
     id: "BC528686B50D79E339D3721CEB3E94ADBE1229CF"
     state: "present"
 
 _apt_repository:
-  - repo: "deb [arch=amd64] https://packages.microsoft.com/repos/ms-teams stable main"
-    filename: "teams"
+  - filename: "teams"
+    repo: "deb [arch=amd64] https://packages.microsoft.com/repos/ms-teams stable main"
     state: "present"
 
 _apt:
