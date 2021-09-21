@@ -1,5 +1,7 @@
 # Ansible Role for Microsoft Teams
 
+<img src="/alvistack.svg" width="75" alt="AlviStack">
+
 [![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-teams/master)](https://gitlab.com/alvistack/ansible-role-teams/-/pipelines)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-teams.svg)](https://github.com/alvistack/ansible-role-teams/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-teams.svg)](https://github.com/alvistack/ansible-role-teams/blob/master/LICENSE)
