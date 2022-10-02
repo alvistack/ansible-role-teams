@@ -20,6 +20,7 @@
   become: true
   tasks:
     - name: teams
-      ansible.builtin.command: teams
+      ansible.builtin.command:
+        cmd: teams
       register: result
       changed_when: result is not succeeded
