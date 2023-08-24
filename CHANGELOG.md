@@ -4,6 +4,8 @@
 
 ### Major Changes
 
+-   Simplify and unify with flatpak
+
 ## 8.3.0 - 2023-08-15
 
 ### Major Changes
