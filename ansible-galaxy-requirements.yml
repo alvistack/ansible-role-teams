@@ -22,3 +22,8 @@ collections:
   - name: containers.podman
     src: https://galaxy.ansible.com
     version: ">=1.7.0,<2.0.0"
+
+roles:
+  - name: alvistack.flatpak
+    src: https://github.com/alvistack/ansible-role-flatpak
+    version: develop

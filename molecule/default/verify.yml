@@ -19,8 +19,8 @@
   remote_user: root
   become: true
   tasks:
-    - name: teams
+    - name: flatpak info com.github.IsmaelMartinez.teams_for_linux
       ansible.builtin.command:
-        cmd: teams
+        cmd: flatpak info com.github.IsmaelMartinez.teams_for_linux
       register: result
       changed_when: result is not succeeded
