@@ -1,9 +1,14 @@
 # Ansible Role for Microsoft Teams
 
-## 8.4.0 - TBC
+## 8.5.0 - TBC
 
 ### Major Changes
 
+## 8.4.0 - 2023-09-14
+
+### Major Changes
+
+-   Support Ansible community package 8.4.0
 -   Simplify and unify with flatpak
 
 ## 8.3.0 - 2023-08-15
