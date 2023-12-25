@@ -22,9 +22,7 @@
     - name: include role
       ansible.builtin.include_role:
         name: alvistack.flatpak
-      tags: alvistack.flatpak
 
     - name: include role
       ansible.builtin.include_role:
         name: alvistack.teams
-      tags: alvistack.teams
