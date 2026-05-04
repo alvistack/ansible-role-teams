@@ -1,13 +1,13 @@
-# Ansible Role for Microsoft Teams
+# Ansible Role for Microsoft Teams with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-teams/master)](https://gitlab.com/alvistack/ansible-role-teams/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-teams.svg)](https://github.com/alvistack/ansible-role-teams/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-teams.svg)](https://github.com/alvistack/ansible-role-teams/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.teams-blue.svg)](https://galaxy.ansible.com/alvistack/teams)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_teams/master)](https://gitlab.com/alvistack/ansible-role-flatpak_teams/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_teams.svg)](https://github.com/alvistack/ansible-role-flatpak_teams/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_teams.svg)](https://github.com/alvistack/ansible-role-flatpak_teams/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_teams-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_teams)
 
-Ansible Role for Microsoft Teams Installation.
+Ansible Role for Microsoft Teams with Flatpak.
 
 ## Requirements
 

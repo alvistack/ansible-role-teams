@@ -1,4 +1,4 @@
-# Ansible Role for Microsoft Teams
+# Ansible Role for Microsoft Teams with Flatpak
 
 ## 13.6.0 - TBC
 
